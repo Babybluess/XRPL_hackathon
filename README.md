@@ -1,1 +1,1 @@
-# algorand_hackathon
+# XRPL_hackathon
